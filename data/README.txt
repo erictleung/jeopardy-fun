@@ -27,3 +27,6 @@ I was thinking it would be cool to have a site where you could sort/search all
 of the questions in a bunch of different ways, such as only $1000+ questions or
 only category "WORLD CAPITALS". Also, somehow using this for a reddit bot could
 be interesting with the right idea.
+
+Source:
+https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/
