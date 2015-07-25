@@ -14,6 +14,7 @@ The code below performs an exploratory data analysis (EDA) on the entire dataset
 Here is a summary of the EDA:
 - TBD
 
+Run the code below to run the EDA.
 ```python
 python eda.py
 ```
