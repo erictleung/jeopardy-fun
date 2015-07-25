@@ -7,7 +7,18 @@ Jeopardy questions, answers, and other data. The data was mined from the
 [Jeopardy! question archive](http://www.j-archive.com/). More details about the
 data can be found from the Reddit page found below.
 
-# Data Source
+## Exploratory Data Analysis
+
+The code below performs an exploratory data analysis (EDA) on the entire dataset.
+
+Here is a summary of the EDA:
+- TBD
+
+```python
+python eda.py
+```
+
+## Data Source
 
 The below is a link to where I originally found the data.
 
