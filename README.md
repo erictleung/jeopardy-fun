@@ -1,7 +1,11 @@
 # Jeopardy Data Analysis
 
+## Overview
+
 This repository holds scripts, documentation, and data for an analysis of
-Jeopardy questions, answers, and other data.
+Jeopardy questions, answers, and other data. The data was mined from the
+[Jeopardy! question archive](http://www.j-archive.com/). More details about the
+data can be found from the Reddit page found below.
 
 # Data Source
 
