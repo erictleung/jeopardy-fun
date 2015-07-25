@@ -1,4 +1,4 @@
-# Jeopardy Question Analysis
+# Jeopardy Data Analysis
 
 This repository holds scripts, documentation, and data for an analysis of
 Jeopardy questions, answers, and other data.
